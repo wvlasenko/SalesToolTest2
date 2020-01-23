@@ -5,7 +5,7 @@ public class SaleToolRun {
 	public static void main(String[] args) {
 		SaleToolData data = new SaleToolData();
 		displayGreeting();
-		data.display();
+		data.viev();
 
 	}
 
